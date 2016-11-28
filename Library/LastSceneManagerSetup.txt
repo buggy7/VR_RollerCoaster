@@ -1,0 +1,4 @@
+sceneSetups:
+- path: Assets/Rapid Waypoint System/Demo/Demo.unity
+  isLoaded: 1
+  isActive: 1
